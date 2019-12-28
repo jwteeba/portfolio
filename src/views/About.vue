@@ -4,7 +4,7 @@
 			<div class="hero-body">
 				<div class="container">
 					<h1 class="title is-2">
-						Meet Jah-Wilson
+						Meet Jah-Wilson Teeba
 					</h1>
 				</div>
 			</div>
@@ -21,7 +21,7 @@
 								Front End Focus
 							</h3>
 							<p>
-								Focused on building user interfaces with JS (Vue, Angular, ES6), HTML, and CSS (Sass) that are well designed and functional.
+								Focused on building user interfaces with JS (Vue), HTML, and CSS (Sass) that are well designed and functional.
 							</p>
 						</div>
 					</div>
@@ -31,7 +31,7 @@
 								Full Stack Experience
 							</h3>
 							<p>
-								Experience working across the application stack using APIs, Node, Mongo, and Firebase and Heroku to deliver production applications from design to deployment.
+								Experience working across the application stack using APIs, Node, Mongo, Mysql, Programming Language(Java, Python, Bash) to deliver production applications from design to deployment.
 							</p>
 						</div>
 					</div>
@@ -50,7 +50,7 @@
 		</section>
 		<section class="section has-background-light">
 			<h2 class="title is-3 has-text-weight-medium has-text-centered">
-				Where I Come From
+				Educational Background
 			</h2>
 			<div class="container">
 				<div class="columns is-centered">
@@ -84,13 +84,13 @@
 					<div class="column is-one-fifth">
 						<div class="box">
 							<figure class="image is-square">
-								<img src="../assets/js-logo.png" alt="Placeholder image">
+								<img src="../assets/k8s-icon.png" alt="Placeholder image">
 							</figure>
 							<h3 class="tech-box-title title is-4 has-text-weight-medium has-text-centered">
-								JavaScript
+								Kubernetes
 							</h3>
 							<p>
-								Proficient in ES6 and ES5 JS
+								Build, Monitor, and Troubleshoot scalable applications and tools in Kubernetes
 							</p>
 						</div>
 					</div>
@@ -110,18 +110,18 @@
 					<div class="column is-one-fifth">
 						<div class="box">
 							<figure class="image is-square">
-								<img src="../assets/firebase-logo.png" alt="Placeholder image">
+								<img src="../assets/docker-icon.png" alt="Placeholder image">
 							</figure>
 							<h3 class="tech-box-title title is-4 has-text-weight-medium has-text-centered">
-								Firebase
+								Docker
 							</h3>
 							<p>
-								Apps using Cloud Firestore and Cloud Storage
+								Run containerized applications from pre-existing images stored in a centralized registry, Deploy images across the cluster • Install, maintain, and operate the Docker platform • Migrate traditional applications to containers
 							</p>
 						</div>
 					</div>
 				</div>
-				<p class="tech-box-title title is-4 has-text-weight-light has-text-centered">Web API's • Mongodb • vuejs • Java • Python • Kubernetes • Docker</p>
+				<p class="tech-box-title title is-4 has-text-weight-light has-text-centered">Web API's • Mongodb • Linux • Java • Python • Bash • Agile Development</p>
 			</div>
 		</section>
 		<section class="section has-background-light">

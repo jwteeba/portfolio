@@ -19,12 +19,15 @@
 
         </div>
 
-        <div class="navbar-end">
+          <div class="navbar-end">
           <router-link to="/" class="navbar-item">
             Home
           </router-link>
           <router-link to="/about" class="navbar-item">
            About
+          </router-link>
+          <router-link to="/projects" class="navbar-item">
+           Projects
           </router-link>
           <router-link to="/contact" class="navbar-item">
            Contact
