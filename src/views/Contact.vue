@@ -24,13 +24,7 @@
 								Twitter
 							</h3>
 							<p>
-								<a href="https://twitter.com/not-working">@jwteeba</a>
-							</p>
-							<h3 class="is-size-4 has-text-weight-medium">
-								Github
-							</h3>
-							<p>
-								<a href="https://github.com/jwteeba">github.com/jwteeba</a>
+								<a href="https://twitter.com/jwteeba">@jwteeba</a>
 							</p>
 						</div>
 					</div>

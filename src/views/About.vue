@@ -18,10 +18,11 @@
 					<div class="column">
 						<div class="box">					
 							<h3 class="title is-4 has-text-weight-medium">
-								Front End Focus
+								Front End Experience
 							</h3>
 							<p>
-								Focused on building user interfaces with JS (Vue), HTML, and CSS (Sass) that are well designed and functional.
+								I have good experience working with Vue.js, AngularJS to create web application. Worked
+								with Vaadin to create user interface in java.
 							</p>
 						</div>
 					</div>
@@ -31,7 +32,9 @@
 								Full Stack Experience
 							</h3>
 							<p>
-								Experience working across the application stack using APIs, Node, Mongo, Mysql, Programming Language(Java, Python, Bash) to deliver production applications from design to deployment.
+							Use Kubernetes to orchestrate containers across multiple hosts. I have great experience in designing,
+							building, configuring, and exposing cloud native applications for Kubernetes. I have experience writing scripts
+							that run task on a HPC, building APIs to interact with a database and backend service.
 							</p>
 						</div>
 					</div>
@@ -77,7 +80,7 @@
 								Vue.js
 							</h3>
 							<p>
-								Full production applications written in Vue
+								Built and maintained applications using Vue.js
 							</p>
 						</div>
 					</div>
@@ -90,7 +93,7 @@
 								Kubernetes
 							</h3>
 							<p>
-								Build, Monitor, and Troubleshoot scalable applications and tools in Kubernetes
+								Use Kubernetes to build, monitor, and troubleshoot scalable applications and tools
 							</p>
 						</div>
 					</div>
@@ -103,7 +106,7 @@
 								Node.js
 							</h3>
 							<p>
-								Back-ends written using Node and Express
+								Built REST APIs and Backend Applications using Node.js
 							</p>
 						</div>
 					</div>
@@ -121,7 +124,7 @@
 						</div>
 					</div>
 				</div>
-				<p class="tech-box-title title is-4 has-text-weight-light has-text-centered">Web API's • Mongodb • Linux • Java • Python • Bash • Agile Development</p>
+				<p class="tech-box-title title is-4 has-text-weight-light has-text-centered">APIs • Machine Learning • Python • Java • Bash • High Performance Computing • Agile Development • Data science</p>
 			</div>
 		</section>
 		<section class="section has-background-light">

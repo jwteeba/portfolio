@@ -39,7 +39,7 @@
    <footer class="footer">
     <div class="content has-text-centered">
       <p>
-        Built by Jah-Wilson Teeba.
+        Built by Jah-Wilson Teeba
       </p>
     </div>
   </footer>
@@ -79,7 +79,7 @@ $primary: #72b5db
 
 .hero-home
   @extend .hero
-  background-image: url('./assets/cloud-background.png')
+  background-image: url('./assets/bg-image.png')
   background-size: cover
 
 
