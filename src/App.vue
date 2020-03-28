@@ -19,7 +19,7 @@
 
         </div>
 
-          <div class="navbar-end">
+        <div class="navbar-end">
           <router-link to="/" class="navbar-item">
             Home
           </router-link>
@@ -39,7 +39,7 @@
    <footer class="footer">
     <div class="content has-text-centered">
       <p>
-        Built by Jah-Wilson.
+        Built by Jah-Wilson Teeba.
       </p>
     </div>
   </footer>
