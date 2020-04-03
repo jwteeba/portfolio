@@ -4,7 +4,7 @@
 			<div class="hero-body">
 				<div class="container">
 					<h1 class="title is-2">
-						Meet Jah-Wilson Teeba
+						Technologies that I have worked with and Experiences
 					</h1>
 				</div>
 			</div>
